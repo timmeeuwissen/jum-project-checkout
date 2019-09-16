@@ -1,0 +1,5 @@
+{
+    "router": {
+        "/chkt": "checkout.vue"
+    }
+}

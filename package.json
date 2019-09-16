@@ -1,0 +1,9 @@
+{
+  "name": "jum-project-checkout",
+  "version": "1.0.0",
+  "description": "Attempt to have an externalised repo for the checkout process",
+  "main": "index.js",
+  "repository": "git@github.com:timmeeuwissen/jum-project-checkout.git",
+  "author": "Tim Meeuwissen <tim.meeuwissen@gmail.com>",
+  "license": "MIT"
+}
