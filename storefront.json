@@ -1,4 +1,5 @@
 {
+    "namespace": "bestellen",
     "router": {
         "/chkt": "checkout.vue"
     }
