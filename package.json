@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:timmeeuwissen/jum-project-checkout.git",
   "author": "Tim Meeuwissen <tim.meeuwissen@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "storefront": "make -f scripts/Makefile"
+  }
 }
